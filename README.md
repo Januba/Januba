@@ -5,11 +5,16 @@ I love creating dynamic, user-friendly web applications.
 
 🚀 Skills
 
-- ASP.NET MVC
+- ASP.NET (MVC)
+- C
 - Php
-- HTML, CSS, JavaScript
-- React
+- HTML
+- CSS
+- JavaScript
+- Java
 - SQL server
+- C#
+- CRM
 
 🌟 Projects
 
